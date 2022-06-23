@@ -1,0 +1,15 @@
+C:\Users\Sena\source\repos\payrollf\payrollf\bin\Debug\net6.0\payrollf.exe
+C:\Users\Sena\source\repos\payrollf\payrollf\bin\Debug\net6.0\payrollf.deps.json
+C:\Users\Sena\source\repos\payrollf\payrollf\bin\Debug\net6.0\payrollf.runtimeconfig.json
+C:\Users\Sena\source\repos\payrollf\payrollf\bin\Debug\net6.0\payrollf.dll
+C:\Users\Sena\source\repos\payrollf\payrollf\bin\Debug\net6.0\payrollf.pdb
+C:\Users\Sena\source\repos\payrollf\payrollf\obj\Debug\net6.0\payrollf.csproj.AssemblyReference.cache
+C:\Users\Sena\source\repos\payrollf\payrollf\obj\Debug\net6.0\payrollf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\source\repos\payrollf\payrollf\obj\Debug\net6.0\payrollf.AssemblyInfoInputs.cache
+C:\Users\Sena\source\repos\payrollf\payrollf\obj\Debug\net6.0\payrollf.AssemblyInfo.cs
+C:\Users\Sena\source\repos\payrollf\payrollf\obj\Debug\net6.0\payrollf.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\payrollf\payrollf\obj\Debug\net6.0\payrollf.dll
+C:\Users\Sena\source\repos\payrollf\payrollf\obj\Debug\net6.0\refint\payrollf.dll
+C:\Users\Sena\source\repos\payrollf\payrollf\obj\Debug\net6.0\payrollf.pdb
+C:\Users\Sena\source\repos\payrollf\payrollf\obj\Debug\net6.0\payrollf.genruntimeconfig.cache
+C:\Users\Sena\source\repos\payrollf\payrollf\obj\Debug\net6.0\ref\payrollf.dll
